@@ -1,3 +1,11 @@
+# Student Login and Register
+
+
+
+https://github.com/Manavalan2517/Student-Login-and-Register-System/assets/112639423/349bbd5a-cabb-45a1-ac29-f2b4cad253ad
+
+
+
 This code snippet is a login system implemented using the Tkinter library in Python. It allows users to register and login with their username and password. The code uses a MySQL database to store user information such as roll number, admission number, class, phone number, email, city, hobby, and 10th result. 
 
 The code consists of the following functions:
